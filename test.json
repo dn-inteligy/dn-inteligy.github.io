@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Max",
+    "firma": "Musterfirma",
+    "bezeichnung": "Test"
+  },
+  {
+    "id": 2,
+    "name": "Maxine",
+    "firma": "Musterfirma",
+    "bezeichnung": "Tester"
+  },
+  {
+    "id": 3,
+    "name": "Dominic",
+    "firma": "inteligy GmbH",
+    "bezeichnung": "junior entwickler"
+  },
+  {
+    "id": 4,
+    "name": "Michael",
+    "firma": "inteligy GmbH",
+    "bezeichnung": "senior entwickler"
+  }
+]
