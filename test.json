@@ -2,25 +2,25 @@
   {
     "id": 1,
     "name": "Max",
-    "firma": "Musterfirma",
-    "bezeichnung": "Test"
+    "firma": "Musterfirma XX",
+    "bezeichnung": "Qualitätssicherung"
   },
   {
     "id": 2,
     "name": "Maxine",
-    "firma": "Musterfirma",
-    "bezeichnung": "Tester"
+    "firma": "Musterfirma XY",
+    "bezeichnung": "Marketing"
   },
   {
     "id": 3,
-    "name": "Dominic",
-    "firma": "inteligy GmbH",
-    "bezeichnung": "junior entwickler"
+    "name": "Test 3",
+    "firma": "Musterfirma XZ",
+    "bezeichnung": "Junior Entwickler"
   },
   {
     "id": 4,
     "name": "Michael",
     "firma": "inteligy GmbH",
-    "bezeichnung": "senior entwickler"
+    "bezeichnung": "Senior Entwickler"
   }
 ]
