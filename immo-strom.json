@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "bezeichnung": "Starttarif",
+    "kosten": "0,40€/kWh"
+  },
+  {
+    "id": 2,
+    "bezeichnung": "Erweiterter Tarif",
+    "kosten": "0,45€/kWh"
+  },
+  {
+    "id": 3,
+    "bezeichnung": "Firmentarif",
+    "kosten": "0,30€/kWh"‚
+  }
+]
